@@ -1,4 +1,4 @@
-# 📚 Essential AI Papers — LLMs, RAG & Agents
+# 📚 Essential AI Papers for AI Engineers — LLMs, RAG & Agents
 
 > A curated reading list for AI engineers and researchers covering Large Language Models, Retrieval-Augmented Generation, AI Agents, and more. Every paper here is battle-tested and referenced constantly across the field.
 
